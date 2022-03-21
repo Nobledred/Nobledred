@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Nobledred
 - 👀 I’m interested in data science
-- 🌱 I’m currently enrolled in a Coursera MOOC: The Data Scientist's Toolbox
+- 🌱 I’m currently [March 21, 2022] enrolled in a Coursera MOOC: The Data Scientist's Toolbox
 - 📫 How to reach me: pattrini@yahoo.com
